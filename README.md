@@ -8,7 +8,7 @@
 ## Key Features
 - **Webpage Summarization**: Summarize any webpage instantly in your preferred language and format(Brief, Detailed, Bullet Points).
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
-- **YouTube Video Summarizer** : Open any YouTube video and click "Summarize" to get a summary of the complete video content.
+- **YouTube Video Summarizer** : Open any YouTube video and click "Summarize" to get a summary based on the video's description.
 - **Shopping Platforms(Product Summarizer)**: Open any product page on Amazon, Myntra, Flipkart, or any shopping platform and click "Summarize" to get a summary of the product details, key features, and reviews.
 - **Social Media Platforms(Post Summarizer)**: Open any profile or post on Instagram, Facebook, or Twitter and click "Summarize" to get a summary of the profile's content or the post's key highlights.
 - **Email Summarizer**: Extract and summarize and condense key information from emails (Gmail, Outlook, etc.).
@@ -30,8 +30,9 @@
 
 ## Usage Examples
 - **Web Page**:
-![image](https://github.com/user-attachments/assets/9d5ab1da-6fa1-4a36-9b43-0d9c2a7718cb)
-![image](https://github.com/user-attachments/assets/10de3177-4b65-4d4b-ad7d-7867992a21f2)
+![image](https://github.com/user-attachments/assets/0b78dfa2-bf8a-4c93-8144-fe4c14e87852)
+![image](https://github.com/user-attachments/assets/48090f9d-90af-409d-bce7-e9d9d671f1ea)
+
 
 - **Search Results**:
 ![image](https://github.com/user-attachments/assets/d3baa349-b0be-4bf9-b916-b6ec5038f622)
