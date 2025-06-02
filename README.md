@@ -35,68 +35,52 @@
 ![image](https://github.com/user-attachments/assets/a87b8229-599e-476a-856c-998b7a14a98f)
 <br>
 
-- **Search Results**:
-<br>
+- **Search Results**: <br>
 ![image](https://github.com/user-attachments/assets/d3baa349-b0be-4bf9-b916-b6ec5038f622)
 <br>
 
-- **YouTube Video**
-<br>
+- **YouTube Video** <br>
 ![image](https://github.com/user-attachments/assets/4753028c-4b9a-4b38-b427-d626e99885a3)
 <br>
 
-- **Shopping Platform**
-<br>
-![image](https://github.com/user-attachments/assets/1743acbc-8b9b-4180-b0ea-7994201b1e81)
-<br>
+- **Shopping Platform** <br>
+![image](https://github.com/user-attachments/assets/1743acbc-8b9b-4180-b0ea-7994201b1e81) <br>
 ![image](https://github.com/user-attachments/assets/d291d849-ff57-446c-aa00-507a7ad13bf1)
 <br>
 
-- **Social Media Platform**
-<br>
-![image](https://github.com/user-attachments/assets/fe7a622d-6ecd-4f2a-800e-9e83e839463f)
-<br>
+- **Social Media Platform** <br>
+![image](https://github.com/user-attachments/assets/fe7a622d-6ecd-4f2a-800e-9e83e839463f) <br>
 ![image](https://github.com/user-attachments/assets/908f2007-bd6d-4d6d-a3a3-6fc6553fab23)
 <br>
 
-- **Emails**
-<br>
+- **Emails** <br>
 ![image](https://github.com/user-attachments/assets/1f7c6e5c-3a0a-47a8-8a27-2007068df85f)
 <br>
 
-- **AI Chat Platforms**
-<br>
-![image](https://github.com/user-attachments/assets/974c1a9e-41ba-45e8-840e-f92b234b64f9)
-<br>
+- **AI Chat Platforms** <br>
+![image](https://github.com/user-attachments/assets/974c1a9e-41ba-45e8-840e-f92b234b64f9) <br>
 ![image](https://github.com/user-attachments/assets/5a22d21c-dee9-4f12-9be5-97f5fa3f64be)
 <br>
 
-- **Uploaded Documents(PDF, DOCX, PPTX)**
-<br>
-![image](https://github.com/user-attachments/assets/3a480a1c-2af1-4d0b-84be-4473e8db7036)
-<br>
-![image](https://github.com/user-attachments/assets/ab90dc34-5dc1-43d0-8447-f014a8bc2095)
-<br>
+- **Uploaded Documents(PDF, DOCX, PPTX)** <br>
+![image](https://github.com/user-attachments/assets/3a480a1c-2af1-4d0b-84be-4473e8db7036) <br>
+![image](https://github.com/user-attachments/assets/ab90dc34-5dc1-43d0-8447-f014a8bc2095) <br>
 ![image](https://github.com/user-attachments/assets/1a0fcbff-ddad-4cf2-a4f0-97e42bdfcc44)
 <br>
 
-- **GitHub**
-<br>
+- **GitHub** <br>
 ![image](https://github.com/user-attachments/assets/bcd34cdf-5040-4b9b-9b74-3dfcc5eb2763)
 <br>
 
-- **Forms**
-<br>
+- **Forms** <br>
 ![image](https://github.com/user-attachments/assets/d2f958b3-66ed-4595-9feb-ed93b38d1b50)
 <br>
 
-- **Calendar**
-<br>
+- **Calendar** <br>
 ![image](https://github.com/user-attachments/assets/2414740d-77aa-4b52-a4d4-50fd566418b9)
 <br>
 
-- **Google Drive**
-<br>
+- **Google Drive** <br>
 ![image](https://github.com/user-attachments/assets/1b324941-4025-48f1-8f5b-d8ae7ea90cea)
 <br>
 
