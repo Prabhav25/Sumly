@@ -1,0 +1,1179 @@
+%PDF-1.3
+%º�x¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5068
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(This document is a comprehensive guide to data structures and algorithms \(DSA\) in computer science, designed to help) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 799.3703149606299121 Td
+(individuals improve their coding skills, ace technical interviews, and become better problem solvers. It is compiled from) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(resources, notes, videos, and solutions gathered by individuals who have successfully navigated FAANG company) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 771.0238582677164914 Td
+(interviews. The guide aims to make DSA knowledge accessible to all.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 742.6774015748030706 Td
+(I. Overview and Aim:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 714.3309448818897636 Td
+(Purpose: To provide a complete roadmap for studying DSA, improving problem-solving abilities, and succeeding in) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(technical coding interviews.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 685.9844881889763428 Td
+(Target Audience: Aspiring software engineers, developers preparing for interviews, and anyone seeking to enhance their) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(DSA knowledge.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 657.6380314960629221 Td
+(Mission: To make the world's resources more accessible to all.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(Key Focus Areas:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 629.291574803149615 Td
+(Understanding core concepts.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(Visualizing the processes involved.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 600.9451181102361943 Td
+(Practicing consistently.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(Exploring new frameworks and building projects.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 572.5986614173227736 Td
+(Communicating approaches effectively.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 544.2522047244094665 Td
+(II. Structure and Content:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 515.9057480314959321 Td
+(The guide is organized into sections covering various DSA topics, including:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 487.559291338582625 Td
+(Arrays:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 459.2128346456692611 Td
+(Introduction to arrays and their properties.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(Use of arrays in different data structures.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 430.8663779527558404 Td
+(2D matrices and their applications in graph, DP, and search-based questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(Links to external resources for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(Hash Maps/Tables:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(Explanation of hash tables as associative arrays.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 345.8270078740156919 Td
+(Storing data in key-value pairs.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(Links to external resources for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 317.480551181102328 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 289.1340944881889072 Td
+(Two Pointers:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 260.7876377952754865 Td
+(Technique for finding subsets or elements in sorted arrays.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(Template for solving two-pointer problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 232.4411811023621794 Td
+(Examples: removing duplicates, finding middle elements.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 204.0947244094487587 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 175.748267716535338 Td
+(Linked Lists:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 147.4018110236219172 Td
+(Introduction to linked lists and their structure.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(Basic linked list methods \(insert, delete, search\).) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 119.0553543307086102 Td
+(Problems: cycle detection, deleting nodes, merging sorted lists.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 90.7088976377951894 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 62.3624409448817687 Td
+(Sliding Window:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5087
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Technique for solving substring and subsequence problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 799.3703149606299121 Td
+(Visualization of the sliding window approach.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(Examples: finding maximum sums, fruit basket problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 771.0238582677164914 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(Binary Search:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(Optimization technique for searching in sorted arrays.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 685.9844881889763428 Td
+(Iterative and recursive implementations.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(Examples: finding bad versions, square roots, max font size.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 657.6380314960629221 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(Recursion:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(Breaking down problems into smaller, self-similar subproblems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 572.5986614173227736 Td
+(Core concepts: base cases, return statements, backtracking.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(Examples: generating parentheses, reversing linked lists, power of three.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 544.2522047244094665 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(Backtracking:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(Optimized brute-force approach for exploring all possible solutions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 459.2128346456692611 Td
+(Template for backtracking problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(Examples: permutations, subsets, combination sums, N-queens.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 430.8663779527558404 Td
+(Memoization as a technique for storing repetitive values.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 402.5199212598424765 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 374.1734645669290558 Td
+(BFS \(Breadth-First Search\) and DFS \(Depth-First Search\):) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 345.8270078740156919 Td
+(Searching techniques for arrays, graphs, and trees.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(Iterative and recursive implementations.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 317.480551181102328 Td
+(Use cases for DFS and BFS.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(Example: Number of Islands.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 289.1340944881889072 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(Dynamic Programming:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(Recursion + Memoization.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 204.0947244094487587 Td
+(Solving problems by making choices at each step.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(Examples: 0/1 Knapsack, Min Path Sum, Min Cost Tickets, Buy and Sell Stocks, Paint House, Edit Distance.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 175.748267716535338 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(Trees:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(Tree-like structures for storing data.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 90.7088976377951894 Td
+(Tree traversal methods: pre-order, in-order, post-order.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(Examples: min depth of a tree, LCA of a binary tree, binary tree to BST.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 62.3624409448817687 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(Example questions.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4744
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 799.3703149606299121 Td
+(Graphs:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 771.0238582677164914 Td
+(General overview of graph-related concepts and algorithms.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Finding root vertices, graph coloring, detecting cycles, friend circles, connected components.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 742.6774015748030706 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(Topological Sorting:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(Linear ordering of vertices in a directed graph.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 657.6380314960629221 Td
+(Application in scheduling and dependency resolution.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(Example: Course Schedule.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 629.291574803149615 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(Greedy Algorithms:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(Making optimal choices at each step.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 544.2522047244094665 Td
+(Sorting inputs to simplify problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(Priority queues for optimal paths and cheaper solutions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 515.9057480314959321 Td
+(Examples: merge intervals, meeting rooms, largest number, top k elements, coin calculator.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 487.559291338582625 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 459.2128346456692611 Td
+(Tries:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 430.8663779527558404 Td
+(Prefix trees for storing strings.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(Implementation of Trie class with insert, search, and startsWith functions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 402.5199212598424765 Td
+(Links to articles and videos for further learning.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(Example questions.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(Additional Topics:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(Kadane's algorithm for maximum subarray problems.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 317.480551181102328 Td
+(Dijkstra's algorithm for shortest paths.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(AVL trees as self-balancing binary search trees.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 289.1340944881889072 Td
+(Sorting algorithms.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 260.7876377952754865 Td
+(III. Additional Awesomeness:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 232.4411811023621794 Td
+(Question Banks: Links to resources like "150 Questions: Data structures" and "Striver SDE Sheet.") Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(Blogs: Links to articles on resume building, internship applications, technical interviews, coding projects, language) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 204.0947244094487587 Td
+(learning, interview revision, and university selection.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(Youtubers: Lists of DSA and competitive coding YouTubers.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 175.748267716535338 Td
+(Websites: Links to resources like 30DaysCoding, Geeks for Geeks, and Leetcode Patterns.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 147.4018110236219172 Td
+(IV. Practice and Consistency:) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 119.0553543307086102 Td
+(Recommendation: Solve 150-200 questions to build confidence.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(Consistency: Finish the guide in 75-90 days.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 90.7088976377951894 Td
+(Emphasis: Revisit topics, watch videos, and become comfortable with problem-solving.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 62.3624409448817687 Td
+(V. Contact:) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 693
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(For questions or feedback, contact 0xblocktrain@gmail.com.) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(In summary, this guide offers a structured and comprehensive approach to mastering DSA, providing resources,) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 771.0238582677164914 Td
+(examples, and practical advice to help individuals succeed in their coding journey and technical interviews. It emphasizes) Tj
+ET
+BT
+/F1 10 Tf
+5. TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(understanding core concepts, consistent practice, and continuous exploration.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20250605063421+05'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000016368 00000 n 
+0000018208 00000 n 
+0000000019 00000 n 
+0000000156 00000 n 
+0000005276 00000 n 
+0000005413 00000 n 
+0000010552 00000 n 
+0000010689 00000 n 
+0000015485 00000 n 
+0000015623 00000 n 
+0000016443 00000 n 
+0000016569 00000 n 
+0000016700 00000 n 
+0000016834 00000 n 
+0000016972 00000 n 
+0000017096 00000 n 
+0000017225 00000 n 
+0000017357 00000 n 
+0000017493 00000 n 
+0000017621 00000 n 
+0000017748 00000 n 
+0000017877 00000 n 
+0000018010 00000 n 
+0000018112 00000 n 
+0000018461 00000 n 
+0000018547 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <A580E4D5C5595A0610D6CD20D8F1128E> <A580E4D5C5595A0610D6CD20D8F1128E> ]
+>>
+startxref
+18651
+%%EOF
