@@ -89,7 +89,7 @@
 
 ![image](https://github.com/user-attachments/assets/1b324941-4025-48f1-8f5b-d8ae7ea90cea)
 
-
+- **Download Documents**: Download the generated summary as a PDF or TXT file. An example of a downloaded PDF is attached to the repository.
 
 
 
