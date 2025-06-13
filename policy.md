@@ -1,4 +1,4 @@
-# AI Summarizer Privacy Policy
+# Summify Privacy Policy
 
 ## Data Collection and Use
 
