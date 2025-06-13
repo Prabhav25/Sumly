@@ -2,12 +2,19 @@
 
 ## [Installation](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the Google AI Studio link to get one.
+  
               ![image](https://github.com/user-attachments/assets/8d44f496-3496-49a6-93f2-756a7523f28c)
+  
 - **Step 2:** After clicking the Google AI Studio link, you'll be redirected to the API key page, where you need to click on the 'Get API Key' option.
+  
               ![image](https://github.com/user-attachments/assets/690a1e9c-13b9-4c16-b0a9-ab904752fcdd)
+  
 - **Step 3:** Then, select the required options to agree to the API policy and click 'I Accept'.
+  
               ![image](https://github.com/user-attachments/assets/040d4ce5-7396-44bd-b4b8-576475fe018a)
+  
 - **Step 4:** Click on 'Create API Key' to generate your API key, then click 'Copy' to copy it and paste it into the extension window.
+  
               ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 # About Summify
