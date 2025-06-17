@@ -1,7 +1,7 @@
 # Summify
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
-- **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio(https://aistudio.google.com/app/apikey) link to get one.
+- **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
   
 ![image](https://github.com/user-attachments/assets/8d44f496-3496-49a6-93f2-756a7523f28c)
   
