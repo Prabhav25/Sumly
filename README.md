@@ -1,4 +1,5 @@
 # Summify
+**Summify** is a chrome extension that summarizes webpages, youtube videos, products on shopping platforms(Amazon, Myntra, Flipkart, etc.), emails, chats (ChatGPT, Gemini, DeepSeek, etc.), documents (PDF, DOCX, PPTX), forms, calendar events, and more in your preferred language and format. You can also download the summary as a PDF or TXT file, or copy it directly to your clipboard in your preferred language.
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
@@ -16,9 +17,6 @@
 - **Step 4:** Click on 'Create API Key' to generate your API key, then click 'Copy' to copy it and paste it into the extension window.
   
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
-
-# About Summify
-**Summify** is a chrome extension that summarizes webpages, youtube videos, products on shopping platforms(Amazon, Myntra, Flipkart, etc.), emails, chats (ChatGPT, Gemini, DeepSeek, etc.), documents (PDF, DOCX, PPTX), forms, calendar events, and more in your preferred language and format. You can also download the summary as a PDF or TXT file, or copy it directly to your clipboard in your preferred language.
 
 ## Key Features
 - **Webpage Summarization**: Summarize any webpage instantly in your preferred language and format(Brief, Detailed, Bullet Points).
