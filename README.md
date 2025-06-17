@@ -38,11 +38,6 @@
 - **Export Options**: Download summaries as PDF or TXT files or copy them to your clipboard.
 - **One-Click Summarization**: Instantly generate summaries with a single click—no configuration needed.
 
-## Installation and Usage
-- **Installation**: Install this Chrome extension from the link provided.
-- **Gemini API Key**: If you already have a Gemini API key, you're good to go. If not, head over to the given link to create one.
-- **Saving API Key**: Enter your API key in the settings and save it. Once done, launch the extension and start using it effortlessly—anytime, anywhere.
-
 ## Usage Examples
 - **Web Page**:
 
