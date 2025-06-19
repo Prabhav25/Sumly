@@ -1,5 +1,5 @@
 # Summify
-**Summify** is a chrome extension that summarizes webpages, youtube videos, products on shopping platforms(Amazon, Myntra, Flipkart, etc.), emails, chats (ChatGPT, Gemini, DeepSeek, etc.), documents (PDF, DOCX, PPTX), forms, calendar events, and more in your preferred language and format. You can also download the summary as a PDF or TXT file, or copy it directly to your clipboard in your preferred language.
+**Summify** is a chrome extension that summarizes webpages, youtube videos, products on shopping platforms(Amazon, Myntra, Flipkart, etc.), emails, chats (ChatGPT, Gemini, DeepSeek, etc.), files (PDF, DOCX, PPTX, Image), forms, calendar events, and more in your preferred language and format. You can also download the summary as a PDF or TXT file, or copy it directly to your clipboard in your preferred language.
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
@@ -26,7 +26,7 @@
 - **Social Media Platforms(Post Summarizer)**: Open any profile or post on Instagram, Facebook, or Twitter and click "Summarize" to get a summary of the profile's content or the post's key highlights.
 - **Email Summarizer**: Extract and summarize and condense key information from emails (Gmail, Outlook, etc.).
 - **Chat Summarizer**: Summarize chats from ChatGPT, Gemini, DeepSeek, and more.
-- **Document Summarization**: Summarize content from PDFs, DOCX, and PPTX files directly in your preferred language.
+- **Document Summarization**: Summarize content from PDFs, DOCX, PPTX and Image files directly in your preferred language.
 - **GitHub Summarizer**: Summarize any GitHub profile or repository in seconds — works best when the repository includes a README file for accurate context.
 - **Form Summarizer**: Open any Google/Microsoft Form and click Summarize to generate a summary of the form questions and responses.
 - **Calendar Events Summarization**: Get quick summaries of your calendar events and meetings.
@@ -55,16 +55,16 @@
 
 ![image](https://github.com/user-attachments/assets/1743acbc-8b9b-4180-b0ea-7994201b1e81) 
 
-![image](https://github.com/user-attachments/assets/d291d849-ff57-446c-aa00-507a7ad13bf1)
+![image](https://github.com/user-attachments/assets/474559c4-82d8-4fa0-9ad7-8cb6e5362bca)
 
 - **Social Media Platform**
 
-![image](https://github.com/user-attachments/assets/fe7a622d-6ecd-4f2a-800e-9e83e839463f) 
-
+![image](https://github.com/user-attachments/assets/8429f6b8-72fa-414b-9f1e-ec54efd7e846)
+ 
 ![image](https://github.com/user-attachments/assets/908f2007-bd6d-4d6d-a3a3-6fc6553fab23)
 
 - **Emails** <br>
-![image](https://github.com/user-attachments/assets/1f7c6e5c-3a0a-47a8-8a27-2007068df85f)
+![image](https://github.com/user-attachments/assets/562c821b-f092-4b20-ac1e-9ed8e482d18c)
 <br>
 
 - **AI Chat Platforms**
