@@ -1,4 +1,4 @@
-# Summify Privacy Policy
+# Sumly Privacy Policy
 
 ## Data Collection and Use
 
