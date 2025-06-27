@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
--- **E-Sign PDF - No Internet or API Key Needed**
+- **E-Sign PDF - No Internet or API Key Needed**
 
    - 1. **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
    - 2. **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.  
