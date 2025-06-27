@@ -38,75 +38,71 @@
 
 
 - **ATS Resume Analyzer**: Just navigate to any job listing in your browser, upload your file or resume, and click "ATSFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
-- **Webpage Summarization**: Summarize any webpage instantly in your preferred language and format(Brief, Detailed, Bullet Points).
+- **Webpage Summarization**: Navigate to any webpage (blog, article, or website). You can select a specific section or leave it as is, then open the extension and click "Summarize" to generate a summary of the selected content or the entire page.
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
 - **YouTube Video Summarizer**: Open any YouTube video and click "Summarize" to get a summary based on the video's description.
-- **Shopping Platforms(Product Summarizer)**: Open any product page on Amazon, Myntra, Flipkart, or any shopping platform and click "Summarize" to get a summary of the product details, key features, and reviews.
-- **Social Media Platforms(Post Summarizer)**: Open any profile or post on Instagram, Facebook, or Twitter and click "Summarize" to get a summary of the profile's content or the post's key highlights.
-- **Email Summarizer**: Extract and summarize and condense key information from emails (Gmail, Outlook, etc.).
-- **Chat Summarizer**: Summarize chats from ChatGPT, Gemini, DeepSeek, and more.
-- **Document Summarization**: Summarize content from PDFs, DOCX, PPTX and Image files directly in your preferred language.
-- **GitHub Summarizer**: Summarize any GitHub profile or repository in seconds — works best when the repository includes a README file for accurate context.
+- **Shopping Platforms(Product Summarizer)**: Browsing products on Amazon, Myntra, Flipkart, or any shopping platform? You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the product details, key features, and reviews.
+- **Social Media Platforms(Post Summarizer)**: Open any profile or post on Instagram, Facebook, or Twitter. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the post's key highlights.
+- **Email Summarizer**: Open any email. You can select a specific section or leave it as is, then open the extension and click "Summarize" to extract and condense key information from the email's content.
+- **Chat Summarizer**: Access any chat thread on popular AI platforms. You can select a specific part of the conversation or leave it as is, then open the extension and click "Summarize" for a concise summary of the selected content or the full discussion.
+- **Document Summarization**: Simply upload a file - PDF, Word(docx), PowerPoint(pptx) or an Image and click "Summarize" to instantly get a summary in the chosen language and format.
+- **GitHub Summarizer**: Open any GitHub profile, repository, or organization. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the full page. Works best on repositories with a README file.
 - **Form Summarizer**: Open any Google/Microsoft Form and click Summarize to generate a summary of the form questions and responses.
-- **Calendar Events Summarization**: Get quick summaries of your calendar events and meetings.
-- **Google Drive**: Open Google Drive, navigate to any file, and click "Summarize" to generate a summary of its content.
+- **Calendar Events Summarization**: Select any event from your Google Calendar and click "Summarize" to generate a concise overview, including participants, time, and agenda.
 - **Multi-Language Support**: Summarize in your preferred language—supports 12 languages.
 - **Custom Summary Formats**: Choose from formats like brief summary, detailed summary or bullet points.
 - **Export Options**: Download summaries as PDF or TXT files or copy them to your clipboard.
 - **One-Click Summarization**: Instantly generate summaries with a single click—no configuration needed.
 
 ## Usage Examples
+- **E-Sign PDF**
+
+![image](https://github.com/user-attachments/assets/18497f22-7256-48a4-aac8-6345fff0d39e)
+
 - **ATS Resume Analyzer**:
 
-![image](https://github.com/user-attachments/assets/57cd5b8b-c684-415c-8d4e-f7e437f521f3)
-  
+![image](https://github.com/user-attachments/assets/df6750b1-9e5b-4e26-8e9f-c24ccd4251da)
+
 - **Web Page**:
 
-![image](https://github.com/user-attachments/assets/5ebd09e1-87a8-4a34-a6f2-b8cd9bbd7eec)
-
-- **Search Results**:
-
-![image](https://github.com/user-attachments/assets/c165e92c-1db7-4b27-a7a6-bb32b781e76e)
+![image](https://github.com/user-attachments/assets/df3e5261-b8f0-4661-a36a-0d5eebe4c502)
 
 - **YouTube Video**
 
-![image](https://github.com/user-attachments/assets/23bce698-4c63-480b-92e5-c16cebea55d8)
+![image](https://github.com/user-attachments/assets/03d7d50d-d1f1-4e58-b35d-57564c04b45b)
 
 - **Shopping Platform**
 
-![image](https://github.com/user-attachments/assets/2ba06d68-3650-4f83-ad26-821df69a50e7)
+![image](https://github.com/user-attachments/assets/b2fb264a-f13a-455f-be07-375c00b5d086)
 
 - **Social Media Platform**
 
-![image](https://github.com/user-attachments/assets/cb5a54a4-0d5d-4987-9ef3-8b5c49604dd9)
+![image](https://github.com/user-attachments/assets/8159dee8-8e5e-4094-a1c1-270edc839732)
 
 - **Emails**
 
-![image](https://github.com/user-attachments/assets/69065dab-3abb-4309-b626-9176e71d50bb)
+![image](https://github.com/user-attachments/assets/7e698f9d-b3f6-4b95-b6d6-7d9285b955bd)
 
 - **AI Chat Platforms**
 
-![image](https://github.com/user-attachments/assets/c20c5932-5377-4794-a657-85603a2cc84b)
+![image](https://github.com/user-attachments/assets/ea84d892-7bd4-48a7-a3d1-a1e7902f3d77)
 
 - **Uploaded Documents(PDF, DOCX, PPTX, Image)**
 
-![image](https://github.com/user-attachments/assets/9dc71216-48af-4cfc-92de-688100da776c)
+![image](https://github.com/user-attachments/assets/d53461b8-1c4c-48f3-9fe1-f4600382c21b)
 
 - **GitHub**
 
-![image](https://github.com/user-attachments/assets/895c38b6-08bc-4079-b3b0-5cc36c2045cb)
+![image](https://github.com/user-attachments/assets/6b103b37-2462-458a-a2c3-1f2210d9282a)
 
 - **Forms** 
 
-![image](https://github.com/user-attachments/assets/0ac88bc8-076d-4dd7-b7e8-6e3651a327bd)
+![image](https://github.com/user-attachments/assets/e8b323e2-1c59-4cb1-9848-cd036004063b)
 
 - **Calendar**
 
-![image](https://github.com/user-attachments/assets/0a3c8322-5ab3-494b-96a7-0de20ac2c158)
+![image](https://github.com/user-attachments/assets/ab13c08f-50a6-4753-8a89-2bbe073fc993)
 
-- **Google Drive**
-
-![image](https://github.com/user-attachments/assets/98a31233-15fb-4875-82b0-6d1cceef01ca)
 
 
 
