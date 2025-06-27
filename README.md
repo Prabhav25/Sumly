@@ -19,22 +19,24 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
-- **E-Sign PDF - No Internet or API Key Needed**
+-- **E-Sign PDF - No Internet or API Key Needed**
 
-1. **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
-2. **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.  
-3. **Save Signature**: After creating or uploading your signature, click on **"Save Signature"**.  
-4. **Preview the PDF**: A live preview of your PDF will appear below.  
-5. **Place Signature**: Single-click anywhere on the PDF preview to place your signature.  
-6. **Resize or Remove Signature**:  
+-- 1. **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
+-- 2. **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.  
+-- 3. **Save Signature**: After creating or uploading your signature, click on **"Save Signature"**.  
+-- 4. **Preview the PDF**: A live preview of your PDF will appear below.  
+-- 5. **Place Signature**: Single-click anywhere on the PDF preview to place your signature.  
+-- 6. **Resize or Remove Signature**:  
    - Resize using the resize icon  
    - Remove using the cross icon  
-7. **Move Signature**:  
+-- 7. **Move Signature**:  
    - Double-click on it  
    - Move your cursor to the new location  
    - Single-click to place it there  
-8. **Navigation & Zoom**: Use the controls to zoom in/out and navigate between pages if it's a multi-page PDF.  
-9. **Download**: Once you're satisfied with the placement, click the **"Download"** button to save your signed PDF.
+-- 8. **Navigation & Zoom**: Use the controls to zoom in/out and navigate between pages if it's a multi-page PDF.  
+-- 9. **Download**: Once you're satisfied with the placement, click the **"Download"** button to save your signed PDF.
+
+
 - **ATS Resume Analyzer**: Just navigate to any job listing in your browser, upload your file or resume, and click "ATSFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
 - **Webpage Summarization**: Summarize any webpage instantly in your preferred language and format(Brief, Detailed, Bullet Points).
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
