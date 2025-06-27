@@ -1,5 +1,5 @@
 # Sumly
-**Sumly** is a powerful Chrome extension that helps you instantly summarize a wide range of content—including webpages, YouTube videos, chats (like ChatGPT, Gemini, DeepSeek), files (PDF, DOCX, PPTX, images), forms, and calendar events, while also offering ATSFix, a feature that lets you analyze any job listing by uploading your resume or file to highlight gaps, suggest improvements, and optimize it for applicant tracking systems, all tailored to your preferred language and format.
+**Sumly** is a powerful Chrome extension that helps you summarize webpages, YouTube videos, shopping products, emails, chats, files, forms, calendar events, and more in your preferred language and format, optimize your job search with ATSFix by comparing your resume with job listings for personalized fixes, and e-sign multi-page PDFs instantly, completely offline, with no internet or API key required.
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
@@ -19,6 +19,22 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
+- **E-Sign PDF - No Internet or API Key Needed**
+
+1. **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
+2. **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.  
+3. **Save Signature**: After creating or uploading your signature, click on **"Save Signature"**.  
+4. **Preview the PDF**: A live preview of your PDF will appear below.  
+5. **Place Signature**: Single-click anywhere on the PDF preview to place your signature.  
+6. **Resize or Remove Signature**:  
+   - Resize using the resize icon  
+   - Remove using the cross icon  
+7. **Move Signature**:  
+   - Double-click on it  
+   - Move your cursor to the new location  
+   - Single-click to place it there  
+8. **Navigation & Zoom**: Use the controls to zoom in/out and navigate between pages if it's a multi-page PDF.  
+9. **Download**: Once you're satisfied with the placement, click the **"Download"** button to save your signed PDF.
 - **ATS Resume Analyzer**: Just navigate to any job listing in your browser, upload your file or resume, and click "ATSFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
 - **Webpage Summarization**: Summarize any webpage instantly in your preferred language and format(Brief, Detailed, Bullet Points).
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
