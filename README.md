@@ -1,5 +1,5 @@
 # Sumly
-**Sumly** is a powerful Chrome extension that helps you summarize webpages, YouTube videos, shopping products, emails, chats, files, forms, calendar events, and more in your preferred language and format, optimize your job search with ATSFix by comparing your resume with job listings for personalized fixes, and e-sign multi-page PDFs instantly, completely offline, with no internet or API key required.
+**Sumly** is a powerful Chrome extension that lets you instantly summarize webpages, shopping products, job postings, AI chats, files, and more in your preferred language and format. Enhance your resume with ATS-powered fixes in your preferred language. E-sign multi-page PDFs completely offline without internet or API keys. Add sticky notes to any webpage that stay until removed. Convert selected or full-page currency values into your target currency instantly with a single click.
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
@@ -74,15 +74,25 @@
 
 - **ATS Resume Analyzer: [Demonstration](https://prabhavdev.me/sumly/summarize)**
   - Just navigate to any job listing in your browser, upload your file or resume, and click "ResumeFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key    skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
-- **Webpage Summarization**: Navigate to any webpage (blog, article, or website). You can select a specific section or leave it as is, then open the extension and click "Summarize" to generate a summary of the selected content or the entire page.
+
+- **Webpage Summarization: [Demonstration](https://prabhavdev.me/sumly/web-pages)**
+  - Navigate to any webpage (blog, article, or website). You can select a specific section or leave it as is, then open the extension and click "Summarize" to generate a summary of the selected content or the entire page.
+
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
-- **YouTube Video Summarizer**: Open any YouTube video and click "Summarize" to get a summary based on the video's description.
-- **Shopping Platforms(Product Summarizer)**: Browsing products on Amazon, Myntra, Flipkart, or any shopping platform? You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the product details, key features, and reviews.
-- **Social Media Platforms(Post Summarizer)**: Open any profile or post on Instagram, Facebook, or Twitter. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the post's key highlights.
-- **Email Summarizer**: Open any email. You can select a specific section or leave it as is, then open the extension and click "Summarize" to extract and condense key information from the email's content.
-- **Chat Summarizer**: Access any chat thread on popular AI platforms. You can select a specific part of the conversation or leave it as is, then open the extension and click "Summarize" for a concise summary of the selected content or the full discussion.
-- **Document Summarization**: Simply upload a file - PDF, Word(docx), PowerPoint(pptx) or an Image and click "Summarize" to instantly get a summary in the chosen language and format.
-- **GitHub Summarizer**: Open any GitHub profile, repository, or organization. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the full page. Works best on repositories with a README file.
+
+- **Shopping Platforms(Product Summarizer): [Demonstration](https://prabhavdev.me/sumly/shopping-product)**
+  - Browsing products on Amazon, Myntra, Flipkart, or any shopping platform? You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the product details, key features, and reviews.
+
+- **Social Media Platforms(Post Summarizer): [Demonstration](https://prabhavdev.me/sumly/social-media)**:
+  -  Open any profile or post on Instagram, Facebook, or Twitter. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the post's key highlights.
+  
+- **Chat Summarizer: [Demonstration](https://prabhavdev.me/sumly/ai-chats)**
+  - Access any chat thread on popular AI platforms. You can select a specific part of the conversation or leave it as is, then open the extension and click "Summarize" for a concise summary of the selected content or the full discussion.
+
+- **Document Summarization: [Demonstration](https://prabhavdev.me/sumly/documents)**
+  - Simply upload a file - PDF, Word(docx), PowerPoint(pptx) or an Image and click "Summarize" to instantly get a summary in the chosen language and format.
+
+- **GitHub Summarizer [Demonstration](https://prabhavdev.me/sumly/github)**: Open any GitHub profile, repository, or organization. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the full page. Works best on repositories with a README file.
 - **Form Summarizer**: Open any Google/Microsoft Form and click Summarize to generate a summary of the form questions and responses.
 - **Calendar Events Summarization**: Select any event from your Google Calendar and click "Summarize" to generate a concise overview, including participants, time, and agenda.
 - **Multi-Language Support**: Summarize in your preferred language—supports 18+ languages.
