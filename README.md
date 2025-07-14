@@ -4,7 +4,7 @@
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
   
-![image](https://github.com/user-attachments/assets/9f9e3637-724d-4c29-a9eb-6009c4b01b02)
+<img width="1101" height="674" alt="image" src="https://github.com/user-attachments/assets/2829d61d-c56a-4bb9-b059-bd73b11a7d0a" />
 
 - **Step 2:** After clicking the Google AI Studio link, you'll be redirected to the API key page, where you need to click on the 'Get API Key' option.
   
