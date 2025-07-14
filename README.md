@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
-- **Sticky Notes**
+- **Sticky Notes: [Demonstration](https://prabhavdev.me/sumly/sticky-notes)**
   - Go to any webpage, open the extension, and click on **Sticky Notes**.
   - A **"+" button** will appear at the bottom-right corner of the page.
   - Click the **"+" button** to add a sticky note. Click again to add more notes.
@@ -32,26 +32,48 @@
     - Place the note anywhere on the page.
   - Sticky notes remain on the page permanently until you delete them manually.
 
+- **Currency Convertor: [Demonstration](https://prabhavdev.me/sumly/currency-convertor)**
+  - Go to any webpage that contains currency amounts (e.g., USD, EUR, GBP, INR, etc.).
+  - Open the extension, select your preferred currency, and click **Convert**.
+  - All currency values on the **entire webpage** will be instantly converted to your selected currency.
+  - To convert a **specific portion only**, highlight the desired currency amount, open the extension, choose your target currency, and click **Convert**.
+  - This feature is perfect for (but not limited to):
+    - Job listings with salary in foreign currencies
+    - Online shopping on international websites
+    - Freelance or contract payment terms
+    - Travel and hotel booking sites
+    - Investment and financial reports
+  - Recognizes and converts the following currency formats:
+    - **Symbol Prefix Format**: `$100`, `$ 100`, `£50`, `£ 50`, `¥1000`, `¥ 1000`, `₹500`, `₹ 500`
+    - **Currency Code Suffix Format**: `100 USD`, `100USD`, `50 EUR`, `50EUR`
+    - **Currency Code Prefix Format**: `USD 100`, `USD100`, `EUR 50`, `EUR50`, `INR 500`, `INR500`
+  - Supports conversion between **30+ global currencies**.
 
-- **E-Sign PDF - No Internet or API Key Needed**
+- **E-Sign PDF - No Internet or API Key Needed: [Demonstration](https://prabhavdev.me/sumly/esignPdf)**
+  - **Upload a PDF**: You can upload a single-page or multi-page PDF document.
+  - **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.
+  - **Upload Signature Image**:
+    - Ensure the image has a white background and is properly cropped.
+    - Wait until the spinner stops loading before proceeding.
+  - **Save Signature**: After creating or uploading your signature, click on **"Save Signature"**.
+  - **Preview the PDF**: A live preview of your PDF will appear below.
+  - **Place Your Signature**:
+    - Single-click anywhere on the PDF preview to place your signature.
+    - Use the resize icon to resize it, and the cross icon to delete it.
+  - **Move the Signature**:
+    - Double-click on the signature.
+    - Move your cursor to the new location and single-click to place it.
+  - **Add Multiple Signatures**: You can place multiple different signatures on any page.
+  - **Navigation & Zoom**:
+    - Use the controls to zoom in/out.
+    - Navigate between pages if it's a multi-page PDF.
+  - **Download**: Once you're satisfied with the placement, click the **"Download"** button to save your signed PDF.
+ 
+- **Summarization: [Demonstration](https://prabhavdev.me/sumly/summarize)**
+  - Instantly summarize webpages, job postings, shopping products, AI chats, files and more in your preferred language and format.
 
-   -  **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
-   -  **Click on the "eSignPDF" Button**: A popup will appear where you can either draw your signature or upload a signature image.  
-   -  **Save Signature**: After creating or uploading your signature, click on **"Save Signature"**.  
-   -  **Preview the PDF**: A live preview of your PDF will appear below.  
-   -  **Place Signature**: Single-click anywhere on the PDF preview to place your signature.  
-   -  **Resize or Remove Signature**:  
-      - Resize using the resize icon  
-      - Remove using the cross icon  
-   -  **Move Signature**:  
-      - Double-click on it  
-      - Move your cursor to the new location  
-      - Single-click to place it there  
-   -  **Navigation & Zoom**: Use the controls to zoom in/out and navigate between pages if it's a multi-page PDF.  
-   -  **Download**: Once you're satisfied with the placement, click the **"Download"** button to save your signed PDF.
-
-
-- **ATS Resume Analyzer**: Just navigate to any job listing in your browser, upload your file or resume, and click "ATSFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
+- **ATS Resume Analyzer: [Demonstration](https://prabhavdev.me/sumly/summarize)**
+  - Just navigate to any job listing in your browser, upload your file or resume, and click "ResumeFix". Sumly will perform an advanced analysis of your resume and the job description, highlighting key    skills, missing keywords, experience gaps, and more to perfectly align your resume with the job and boost your chances of getting shortlisted.
 - **Webpage Summarization**: Navigate to any webpage (blog, article, or website). You can select a specific section or leave it as is, then open the extension and click "Summarize" to generate a summary of the selected content or the entire page.
 - **Search Results Summarizer**: Get concise summaries of Google, Bing, or other search engine results.
 - **YouTube Video Summarizer**: Open any YouTube video and click "Summarize" to get a summary based on the video's description.
@@ -63,67 +85,7 @@
 - **GitHub Summarizer**: Open any GitHub profile, repository, or organization. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the full page. Works best on repositories with a README file.
 - **Form Summarizer**: Open any Google/Microsoft Form and click Summarize to generate a summary of the form questions and responses.
 - **Calendar Events Summarization**: Select any event from your Google Calendar and click "Summarize" to generate a concise overview, including participants, time, and agenda.
-- **Multi-Language Support**: Summarize in your preferred language—supports 12 languages.
+- **Multi-Language Support**: Summarize in your preferred language—supports 18+ languages.
 - **Custom Summary Formats**: Choose from formats like brief summary, detailed summary or bullet points.
 - **Export Options**: Download summaries as PDF or TXT files or copy them to your clipboard.
 - **One-Click Summarization**: Instantly generate summaries with a single click—no configuration needed.
-
-## Usage Examples
-- **E-Sign PDF**
-
-![image](https://github.com/user-attachments/assets/18497f22-7256-48a4-aac8-6345fff0d39e)
-
-- **ATS Resume Analyzer**:
-
-![image](https://github.com/user-attachments/assets/df6750b1-9e5b-4e26-8e9f-c24ccd4251da)
-
-- **Web Page**:
-
-![image](https://github.com/user-attachments/assets/df3e5261-b8f0-4661-a36a-0d5eebe4c502)
-
-- **YouTube Video**
-
-![image](https://github.com/user-attachments/assets/03d7d50d-d1f1-4e58-b35d-57564c04b45b)
-
-- **Shopping Platform**
-
-![image](https://github.com/user-attachments/assets/b2fb264a-f13a-455f-be07-375c00b5d086)
-
-- **Social Media Platform**
-
-![image](https://github.com/user-attachments/assets/8159dee8-8e5e-4094-a1c1-270edc839732)
-
-- **Emails**
-
-![image](https://github.com/user-attachments/assets/7e698f9d-b3f6-4b95-b6d6-7d9285b955bd)
-
-- **AI Chat Platforms**
-
-![image](https://github.com/user-attachments/assets/ea84d892-7bd4-48a7-a3d1-a1e7902f3d77)
-
-- **Uploaded Documents(PDF, DOCX, PPTX, Image)**
-
-![image](https://github.com/user-attachments/assets/d53461b8-1c4c-48f3-9fe1-f4600382c21b)
-
-- **GitHub**
-
-![image](https://github.com/user-attachments/assets/6b103b37-2462-458a-a2c3-1f2210d9282a)
-
-- **Forms** 
-
-![image](https://github.com/user-attachments/assets/e8b323e2-1c59-4cb1-9848-cd036004063b)
-
-- **Calendar**
-
-![image](https://github.com/user-attachments/assets/ab13c08f-50a6-4753-8a89-2bbe073fc993)
-
-
-
-
-
-
-
-
-
-
-
