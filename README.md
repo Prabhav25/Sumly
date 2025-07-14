@@ -19,6 +19,20 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
+- **Sticky Notes**
+  - Go to any webpage, open the extension, and click on **Sticky Notes**.
+  - A **"+" button** will appear at the bottom-right corner of the page.
+  - Click the **"+" button** to add a sticky note. Click again to add more notes.
+  - If you reload the page, the **"+" button** will disappear. Open the extension and click on **Sticky Notes** again to bring it back.
+  - Each sticky note lets you:
+    - Add a heading and write notes.
+    - Edit text using **bold**, *italic*, **underline**, font size, and color options.
+    - Adjust the note's brightness using the **sun-shaped icon**.
+    - Delete the note using the **delete icon**.
+    - Place the note anywhere on the page.
+  - Sticky notes remain on the page permanently until you delete them manually.
+
+
 - **E-Sign PDF - No Internet or API Key Needed**
 
    -  **Upload a PDF**: You can upload a single-page or multi-page PDF document.  
