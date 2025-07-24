@@ -1,10 +1,10 @@
 # Sumly
-**Sumly** is a powerful Chrome extension that lets you instantly summarize webpages, shopping products, job postings, AI chats, files, and more in your preferred language and format. Enhance your resume with ATS-powered fixes in your preferred language. E-sign multi-page PDFs completely offline without internet or API keys. Add sticky notes to any webpage that stay until removed. Convert selected or full-page currency values into your target currency instantly with a single click.
+**Sumly** is your all-in-one Chrome extension that lets you instantly summarize webpages, shopping products, job postings, AI chats, files, and more in your preferred language and format. Enhance your resume with ATS-powered fixes in your preferred language. E-sign multi-page PDFs completely offline without internet or API keys. Add sticky notes to any webpage that stay until removed. Convert selected or full-page currency values into your target currency instantly with a single click. Use Askable to get AI-powered answers by selecting text or marking areas.
 
 ## [Installation Link](https://chromewebstore.google.com/detail/honfjipamlobaeefcpggckeghjpolmjj?utm_source=item-share-cb)
 - **Step 1:** Install the extension and enter your Gemini API key if you already have one. If not, click the [Google AI Studio](https://aistudio.google.com/app/apikey) link to get one.
   
-<img width="1101" height="674" alt="image" src="https://github.com/user-attachments/assets/2829d61d-c56a-4bb9-b059-bd73b11a7d0a" />
+<img width="1067" height="638" alt="image" src="https://github.com/user-attachments/assets/20741310-b787-4a73-a306-312ec00eef15" />
 
 - **Step 2:** After clicking the Google AI Studio link, you'll be redirected to the API key page, where you need to click on the 'Get API Key' option.
   
@@ -19,6 +19,24 @@
 ![image](https://github.com/user-attachments/assets/f36d9038-7716-4f77-b14a-c55276eb7635)
 
 ## Key Features
+
+- **Askable: [Demonstration](https://prabhavdev.me/sumly/askable)**
+  - Stuck on any question (coding, multi-select, etc.)? Just select the text where the question is, open the extension, click on **Askable**, select any **Answer type**, and get an instant answer.
+  - If the website does not allow text selection, open the extension, click on **Askable**, then click on **Canvas** and select the area of the page containing your question. Click on Save. Open the extension again, click on Askable, and select an Answer type, and get an instant answer.
+  - If your question is a coding question and you want to generate code for it, use the **Write code** answer type and choose the language in which you want the code to be generated.
+  - We support multiple answer types:
+    - **Single select**: Choose this if your question has only one correct answer.
+    - **Multi select**: Use this if your question has multiple correct answers.
+    - **Write code**: Use this to generate code for a coding question with support for **15 programming languages**.
+    - **Code output**: Use this to generate the output of a code snippet.
+    - **True/False**: Use this for true or false type questions.
+    - **Fill in the blanks**: Use this if the question asks to fill in missing parts.
+  - To make sure the entire question is visible in a single view when using Canvas Selection, you can adjust the question section's width or the page's zoom level:
+      - On Windows, press Ctrl + "-" to zoom out.
+      - On Mac, press Cmd + "-" to zoom out.
+    This ensures the full question appears in your viewport without scrolling, as the canvas only captures what's visible on screen.
+  - You can also download the generated output in PDF, TXT, or copy it directly using the Copy button.
+
 - **Sticky Notes: [Demonstration](https://prabhavdev.me/sumly/sticky-notes)**
   - Go to any webpage, open the extension, and click on **Sticky Notes**.
   - A **"+" button** will appear at the bottom-right corner of the page.
@@ -94,7 +112,6 @@
 
 - **GitHub Summarizer [Demonstration](https://prabhavdev.me/sumly/github)**: Open any GitHub profile, repository, or organization. You can select a specific section or leave it as is, then open the extension and click "Summarize" to get a summary of the selected content or the full page. Works best on repositories with a README file.
 - **Form Summarizer**: Open any Google/Microsoft Form and click Summarize to generate a summary of the form questions and responses.
-- **Calendar Events Summarization**: Select any event from your Google Calendar and click "Summarize" to generate a concise overview, including participants, time, and agenda.
 - **Multi-Language Support**: Summarize in your preferred language—supports 18+ languages.
 - **Custom Summary Formats**: Choose from formats like brief summary, detailed summary or bullet points.
 - **Export Options**: Download summaries as PDF or TXT files or copy them to your clipboard.
